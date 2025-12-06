@@ -1,6 +1,6 @@
 name: Handle issue
 on: issues
-Jobs:
+jobs:
   output-info:
     runs-on: ubuntu-latest
     steps:
